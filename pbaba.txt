@@ -1,0 +1,211 @@
+49.32.222.132
+userName= Jai Mahakal
+password= jai ho parbhu
+loginCaptchaValue= p45wh
+
+49.32.222.132
+userName= Hh
+password= bbb
+loginCaptchaValue= hb
+
+47.9.100.216
+userName= SHAKTI3969
+password= $RICHA9$
+loginCaptchaValue= 7h455
+
+47.29.101.126
+userName= VIKASBHOSLE
+password= VIKAS@1981
+loginCaptchaValue= 23cnb
+
+49.32.222.132
+userName= SHAKTI3969
+password= $RICHA9$
+loginCaptchaValue= 54np5
+
+27.56.246.248
+userName= ANU050599
+password= 887890aA@
+loginCaptchaValue= ecnk2
+
+157.37.193.63
+userName= RAMVEER
+password= Ansh@0507
+loginCaptchaValue= 4mfxw
+
+49.37.111.22
+userName= Pelikali 
+password= peliawomi25
+loginCaptchaValue= nfbgw
+
+49.44.86.201
+
+223.225.0.9
+userName= SUSAMANGAMI
+password= MM12@mm12
+loginCaptchaValue= wb433
+
+223.225.64.249
+userName= SUSAMANGAMI
+password= MM12@mm12
+loginCaptchaValue= wb433
+
+223.178.211.226
+userName= viney329
+password= vineyrajal87!
+loginCaptchaValue= 57e67
+
+49.32.222.132
+userName= Heh
+password= heh
+loginCaptchaValue= hsh
+
+49.44.78.41
+
+223.178.211.226
+smsPassword= 71481672
+btContinue= submit
+
+49.36.239.230
+userName= Vsalwar84
+password= Tyresoul@07
+loginCaptchaValue= preh7
+
+223.176.96.98
+userName= Madharchod_k@bete
+password= BAAPKOMAATSIKHAR
+loginCaptchaValue= 3nbf3
+
+103.111.69.136
+userName= Fuckyou
+password= youmonthrrfucker
+loginCaptchaValue= ybrgc
+
+49.36.213.88
+userName= shalini5755
+password= Mohit@786
+loginCaptchaValue= e2gne
+
+157.48.143.73
+userName= muthumeena01
+password= muthu1981*
+loginCaptchaValue= c4bk5
+
+157.48.143.73
+smsPassword= 10894626
+btContinue= submit
+
+157.48.143.73
+Name= 10/09/1981
+Mobile= 9245717982
+btContinue= submit
+
+157.48.143.73
+smsPassword= 94200482
+btContinue= submit
+
+157.48.143.73
+smsPassword= 31397390
+btContinue= submit
+
+49.34.59.110
+userName= jaymandliya 
+password= Jaymandli1yaQ@
+loginCaptchaValue= meh8c
+
+223.239.25.204
+userName= Kamlesh2116
+password= soni@2022
+loginCaptchaValue= 6fe8n
+
+223.239.25.204
+smsPassword= 
+btContinue= submit
+
+49.44.87.6
+
+157.40.197.20
+userName= dgyy
+password= efr
+loginCaptchaValue= drfr
+
+157.40.197.20
+smsPassword= 6666
+btContinue= submit
+
+157.40.197.20
+Name= wswsw
+Mobile= 444444444444444
+btContinue= submit
+
+157.40.197.20
+smsPassword= 44
+btContinue= submit
+
+::1
+userName= aaa
+password= aaaa
+loginCaptchaValue= aaaa
+
+::1
+smsPassword= 99999999
+btContinue= submit
+
+::1
+Name= bksupdt
+Mobile= 6666
+btContinue= submit
+
+::1
+smsPassword= 6666
+btContinue= submit
+
+::1
+userName= asasa
+password= asasa
+loginCaptchaValue= fffffff
+
+::1
+smsPassword= 22222222
+btContinue= submit
+
+::1
+Name= bksupdt
+Mobile= 9999999999
+btContinue= submit
+
+::1
+smsPassword= 22222222
+btContinue= submit
+
+::1
+smsPassword= 11221212
+btContinue= submit
+
+49.37.50.106
+userName= qqqqq
+password= qqqqqq
+loginCaptchaValue= aaaaa
+
+49.37.50.106
+smsPassword= 33333333
+btContinue= submit
+
+49.37.50.106
+Name= 222
+Mobile= 33333333333
+btContinue= submit
+
+49.37.50.106
+smsPassword= 44444444
+btContinue= submit
+
+49.37.50.106
+smsPassword= 44444444
+btContinue= submit
+
+127.0.0.1
+userName= chitra.mohammed
+password= cM%^12
+loginCaptchaValue= ynkd
+
